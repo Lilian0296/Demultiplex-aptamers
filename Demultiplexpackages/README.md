@@ -48,7 +48,7 @@ demultiplex(x,data,primer_fd,primer_rv,pathout)
 
 # Basic resources
 
-The R packages listed below are required for running this package. *R
+The R packages listed above are required for running this package. *R
 version 4.1.2 (2021-11-01) *R packages: Biostrings_2.62.0, QuasR_1.34.0,
 dplyr_1.0.7, stringr_1.4.0
 
