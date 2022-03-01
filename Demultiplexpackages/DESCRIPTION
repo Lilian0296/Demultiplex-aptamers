@@ -1,0 +1,11 @@
+Package: Demultiplexpackages
+Title: Demultiplex SELEX rounds
+Version: 0.1
+Author: Li-Chin Wang
+Maintainer: Li-Chin Wang <lilianwang9602@nycu.edu.tw>
+Description: Short sequences demultiplex barcodes and trim primers
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: Biostrings, QuasR, stringr, dplyr, utils,
