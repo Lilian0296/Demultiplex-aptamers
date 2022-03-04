@@ -12,7 +12,7 @@ You can install the development version of Demultiplexpackages like so:
 
     install.packages("~/Demultiplexpackages_0.1.zip", repos = NULL, type = "win.binary",INSTALL_opts=c("--no-multiarch"))
 
-You can find test data in data file
+You can find test data in data-raw file
 
 ``` r
 library(Demultiplexpackages)
